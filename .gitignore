@@ -1,0 +1,16 @@
+dist/
+tools/
+*.user
+*.log
+
+# Local tooling, generated assets, and archived distributions
+.openai/
+release/
+reviews/
+sites/
+__pycache__/
+*.pyc
+
+# Local instructions and session notes
+AGENTS.md
+작업로그-*.md
